@@ -1,5 +1,5 @@
-Dask RAPIDS Benchmarks
-======================
+Dask GPU Benchmarks
+===================
 
 This repository holds notebooks that show using Dask together with GPU
 libraries like cuDF, cuML, and CuPy.
